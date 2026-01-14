@@ -1,7 +1,7 @@
 {
   "name": "Mutaba'ah Digital",
   "short_name": "Mutaba'ah",
-  "start_url": "https://pp-alam-tahfidz-hamalatul-quran.vercel.app/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d9488",
@@ -10,14 +10,14 @@
     {
       "src": "https://pp-alam-tahfidz-hamalatul-quran.vercel.app/Hamalat.jpeg",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/jpeg",
+      "purpose": "any"
     },
     {
       "src": "https://pp-alam-tahfidz-hamalatul-quran.vercel.app/Hamalat.jpeg",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/jpeg",
+      "purpose": "any"
     }
   ]
 }
